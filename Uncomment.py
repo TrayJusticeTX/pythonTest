@@ -14,3 +14,4 @@ Temp (F) = Temp (C) * (9/5) + 32
 c0_in_fahrenheit = c_to_f(0)
 
 get_force = mass * acceleration
+print(Temp)
